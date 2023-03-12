@@ -40,7 +40,7 @@ font-size: 30px;}
     display: none;
 }
 
-.tab-input:checked ~.picture {
+.tab-input:checked ~ .picture {
     display: block;
 }
 
