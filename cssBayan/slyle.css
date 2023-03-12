@@ -45,13 +45,13 @@ font-size: 30px;}
 }
 
 img {
-    width: 100%;
+    width: 320px;
 }
 
 .picture {
     display: none;
     padding: 10px 15px;
-    max-width: 100%;
+    max-width: 320px;
     margin: 20px auto;
 }
 
